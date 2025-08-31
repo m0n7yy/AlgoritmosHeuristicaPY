@@ -1,0 +1,3 @@
+Implementacion del algoritmo de busqueda heuristica HILL_CLIMBING en Python, utilizando un grafo predefinido donde se busca el mejor camino entre el nodo 'B' al nodo 'F', este algoritmo tiene un estado inicial (B) y un estado final (F), toma en cuenta la matriz que se encuentre y empieza a realizar los caminos, evaluando los costos totales, y termina por optar el de menor costo.
+Se ejecuta al inicio y muestra solamente el resultado ademas del costo total abajo de ellos
+En este caso habia dos posibles resultados, ya que terminan siendo el mismo coste, solo que aqui toma el primero que realizo en caso de que sea igual.
